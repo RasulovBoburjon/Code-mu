@@ -309,5 +309,30 @@ Vazifa 7 js.
 // alert(10 / 0);
  //alert(-10 / 0);
 
+/*
+Vazifa 1--js
+
+Bir kundagi soniyalar sonini toping.
+
+alert(60 * 60);
+/*  
+Vazifa 2-js
+
+30 Bir kundagi soniyalar sonini toping .
+
+Vazifa 3-js
+
+Yildagi soniyalar sonini toping.
+
+Vazifa 4-js
+
+Bir kundagi daqiqalar sonini toping.
+
+Vazifa 5-js
+
+Yildagi daqiqalar sonini toping.
+  */
+
+/*  Ma'lumotlar turini avtomatik o'zgartirish   */
 
  
